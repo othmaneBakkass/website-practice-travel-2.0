@@ -1,0 +1,20 @@
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    flex-direction: column;
